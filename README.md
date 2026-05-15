@@ -66,7 +66,8 @@ gcc pipe.c -o pipe
 
 ## OUTPUT
 
-![Alt text](<Screenshot at 2026-03-12 06-52-28.png>)
+<img width="664" height="125" alt="image" src="https://github.com/user-attachments/assets/9d8ff8f3-48e4-46b9-ae55-c583c191326e" />
+
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
@@ -121,8 +122,11 @@ gcc named_pipe.c -o named_pipe
 
 
 ## OUTPUT
+<img width="630" height="147" alt="image" src="https://github.com/user-attachments/assets/790f33bd-120e-4cb0-9db5-0a18a2a81af5" />
 
-![Alt text](named.png)
+
+
+
 
 # RESULT:
 The program is executed successfully.
